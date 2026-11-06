@@ -1,61 +1,49 @@
 <div align="center">
 
-# 📚 Welcome to My Cozy Nook ☕
-
-<i>"So many books, so little time..."</i>
+# 📚 Cozy Library
 
 <br/>
 
-<!-- TOP SHELF: LANGUAGES -->
+<!-- SHELF 1: LANGUAGES -->
 <table>
-  <tr>
-    <th align="center">📖 SHELF I: LANGUAGES</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#"><img src="https://img.shields.io/badge/Python-8B4513?style=for-the-badge&logo=python&logoColor=F5DEB3" alt="Python" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/JavaScript-D2691E?style=for-the-badge&logo=javascript&logoColor=F5DEB3" alt="JavaScript" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/TypeScript-A0522D?style=for-the-badge&logo=typescript&logoColor=F5DEB3" alt="TypeScript" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-5C4033?style=for-the-badge&logo=cplusplus&logoColor=F5DEB3" alt="C++" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/HTML5-CD853F?style=for-the-badge&logo=html5&logoColor=F5DEB3" alt="HTML5" /></a>
+  <tr valign="bottom">
+    <td align="center" width="40" bgcolor="#5C2C16">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=140&lines=P%0AY%0AT%0AH%0AO%0AN" alt="Python Book Spine" />
+    </td>
+    <td align="center" width="40" bgcolor="#8B4513">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=160&lines=J%0AA%0AV%0AA%0AS%0AC%0AR%0AI%0AP%0AT" alt="JS Book Spine" />
+    </td>
+    <td align="center" width="40" bgcolor="#3B2F2F">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=130&lines=T%0AS%0AP%0AE%0AC%0AR%0AI%0AP%0AT" alt="TS Book Spine" />
+    </td>
+    <td align="center" width="40" bgcolor="#704214">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=150&lines=C%0A%2B%0A%2B" alt="C++ Book Spine" />
     </td>
   </tr>
 </table>
+<img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/flat.png" width="300" height="8" alt="Shelf Line" />
+<p><b>SHELF I: LANGUAGES</b></p>
 
 <br/>
 
-<!-- MIDDLE SHELF: FRAMEWORKS -->
+<!-- SHELF 2: FRAMEWORKS -->
 <table>
-  <tr>
-    <th align="center">📜 SHELF II: FRAMEWORKS</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#"><img src="https://img.shields.io/badge/React-8B5A2B?style=for-the-badge&logo=react&logoColor=F5DEB3" alt="React" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Next.js-3B2F2F?style=for-the-badge&logo=nextdotjs&logoColor=F5DEB3" alt="Next.js" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Node.js-665D1E?style=for-the-badge&logo=nodedotjs&logoColor=F5DEB3" alt="Node.js" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Flask-4A3B32?style=for-the-badge&logo=flask&logoColor=F5DEB3" alt="Flask" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-B8860B?style=for-the-badge&logo=tailwindcss&logoColor=F5DEB3" alt="Tailwind" /></a>
+  <tr valign="bottom">
+    <td align="center" width="40" bgcolor="#A0522D">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=150&lines=R%0AE%0AA%0AC%0AT" alt="React" />
+    </td>
+    <td align="center" width="40" bgcolor="#4A3B32">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=170&lines=N%0AE%0AX%0AT%0A.%0AJ%0AS" alt="Next.js" />
+    </td>
+    <td align="center" width="40" bgcolor="#665D1E">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=140&lines=N%0AO%0AD%0AE%0A.%0AJ%0AS" alt="Node.js" />
+    </td>
+    <td align="center" width="40" bgcolor="#2B1B17">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=130&lines=F%0AL%0AA%0AS%0AK" alt="Flask" />
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- BOTTOM SHELF: TOOLS -->
-<table>
-  <tr>
-    <th align="center">🕯️ SHELF III: TOOLS & ENVIRONMENT</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="#"><img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=F5DEB3" alt="Git" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/VS_Code-4B382A?style=for-the-badge&logo=visualstudiocode&logoColor=F5DEB3" alt="VS Code" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-2B1B17?style=for-the-badge&logo=github&logoColor=F5DEB3" alt="GitHub" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Vercel-3D2314?style=for-the-badge&logo=vercel&logoColor=F5DEB3" alt="Vercel" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Postman-A52A2A?style=for-the-badge&logo=postman&logoColor=F5DEB3" alt="Postman" /></a>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/flat.png" width="300" height="8" alt="Shelf Line" />
+<p><b>SHELF II: FRAMEWORKS</b></p>
 
 </div>
