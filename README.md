@@ -1,49 +1,33 @@
 <div align="center">
 
-# 📚 Cozy Library
+# 📚 Welcome to My Cozy Library
 
-<br/>
+<svg width="600" height="520" viewBox="0 0 600 520" xmlns="http://www.w3.org/2000/svg" style="background-color: transparent;">
+  <style>
+    .shelf-label { font-family: 'Segoe UI', sans-serif; font-size: 13px; font-weight: 700; fill: #D4A373; letter-spacing: 1.5px; }
+    .book-title { font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; font-weight: bold; fill: #F5DEB3; }
+    .gold-detail { fill: #D4AF37; }
+  </style>
 
-<!-- SHELF 1: LANGUAGES -->
-<table>
-  <tr valign="bottom">
-    <td align="center" width="40" bgcolor="#5C2C16">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=140&lines=P%0AY%0AT%0AH%0AO%0AN" alt="Python Book Spine" />
-    </td>
-    <td align="center" width="40" bgcolor="#8B4513">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=160&lines=J%0AA%0AV%0AA%0AS%0AC%0AR%0AI%0AP%0AT" alt="JS Book Spine" />
-    </td>
-    <td align="center" width="40" bgcolor="#3B2F2F">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=130&lines=T%0AS%0AP%0AE%0AC%0AR%0AI%0AP%0AT" alt="TS Book Spine" />
-    </td>
-    <td align="center" width="40" bgcolor="#704214">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=150&lines=C%0A%2B%0A%2B" alt="C++ Book Spine" />
-    </td>
-  </tr>
-</table>
-<img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/flat.png" width="300" height="8" alt="Shelf Line" />
-<p><b>SHELF I: LANGUAGES</b></p>
+  <!-- ==================== SHELF I: LANGUAGES ==================== -->
+  <g id="shelf-1">
+    <!-- Books -->
+    <!-- Python -->
+    <rect x="70" y="30" width="36" height="120" rx="3" fill="#8B4513" stroke="#4A2506" stroke-width="2"/>
+    <rect x="73" y="34" width="30" height="4" fill="#D4AF37" opacity="0.7"/>
+    <rect x="73" y="142" width="30" height="4" fill="#D4AF37" opacity="0.7"/>
+    <text x="-120" y="93" class="book-title" transform="rotate(-90)">PYTHON</text>
 
-<br/>
+    <!-- JavaScript -->
+    <rect x="112" y="15" width="40" height="135" rx="3" fill="#D2691E" stroke="#7A3B0E" stroke-width="2"/>
+    <line x1="117" y1="20" x2="147" y2="20" stroke="#F5DEB3" stroke-width="2" opacity="0.5"/>
+    <line x1="117" y1="145" x2="147" y2="145" stroke="#F5DEB3" stroke-width="2" opacity="0.5"/>
+    <text x="-125" y="137" class="book-title" transform="rotate(-90)">JAVASCRIPT</text>
 
-<!-- SHELF 2: FRAMEWORKS -->
-<table>
-  <tr valign="bottom">
-    <td align="center" width="40" bgcolor="#A0522D">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=150&lines=R%0AE%0AA%0AC%0AT" alt="React" />
-    </td>
-    <td align="center" width="40" bgcolor="#4A3B32">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=170&lines=N%0AE%0AX%0AT%0A.%0AJ%0AS" alt="Next.js" />
-    </td>
-    <td align="center" width="40" bgcolor="#665D1E">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=140&lines=N%0AO%0AD%0AE%0A.%0AJ%0AS" alt="Node.js" />
-    </td>
-    <td align="center" width="40" bgcolor="#2B1B17">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F5DEB3&center=true&vcenter=true&width=30&height=130&lines=F%0AL%0AA%0AS%0AK" alt="Flask" />
-    </td>
-  </tr>
-</table>
-<img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/flat.png" width="300" height="8" alt="Shelf Line" />
-<p><b>SHELF II: FRAMEWORKS</b></p>
+    <!-- TypeScript -->
+    <rect x="158" y="35" width="34" height="115" rx="3" fill="#A0522D" stroke="#5C2E19" stroke-width="2"/>
+    <text x="-120" y="180" class="book-title" transform="rotate(-90)">TYPESCRIPT</text>
 
-</div>
+    <!-- C++ -->
+    <rect x="198" y="25" width="38" height="125" rx="3" fill="#5C4033" stroke="#36251E" stroke-width="2"/>
+    <rect x="202" y="30" width="30" height="3" fill="#D4AF37" opacity="0.8
