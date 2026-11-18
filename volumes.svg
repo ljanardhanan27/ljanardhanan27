@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="390" viewBox="0 0 800 390">
+  <defs>
+    <clipPath id="card"><rect width="800" height="88" rx="12"/></clipPath>
+    <style>
+      .num{font-family:Georgia,'Times New Roman',serif;font-size:26px;fill:#4c1d95;text-anchor:middle}
+      .h{font-family:system-ui,-apple-system,'Segoe UI',sans-serif;font-size:17px;font-weight:700;fill:#ddd6fe}
+      .d{font-family:system-ui,-apple-system,'Segoe UI',sans-serif;font-size:13px;fill:#cbd5e1}
+      .p{font-family:'JetBrains Mono',Consolas,'Liberation Mono',monospace;font-size:11px;text-anchor:middle}
+      .box{fill:#0f0c26;stroke:#312e81;stroke-width:1.5}
+    </style>
+  </defs>
+
+  <g transform="translate(0,0)">
+    <g clip-path="url(#card)">
+      <rect width="800" height="88" fill="#0f0c26"/>
+      <rect width="14" height="88" fill="#7c3aed"/>
+      <rect width="14" height="88" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;.2;0" dur="4s" begin="0s" repeatCount="indefinite"/></rect>
+    </g>
+    <rect class="box" x=".75" y=".75" width="798.5" height="86.5" rx="12" fill="none"/>
+    <text class="num" x="44" y="54">I</text>
+    <text class="h" x="76" y="34">Stranger Tasks</text>
+    <text class="d" x="76" y="55">Meeting commitment tracker and Chrome extension</text>
+    <text class="d" x="76" y="73">that pairs deterministic logic with Gemini AI</text>
+    <rect x="497" y="31" width="279" height="26" rx="13" fill="#6d28d9"/>
+    <text class="p" x="636.5" y="48" fill="#ede9fe">ADP Track Winner · Hack Like W@CC 2026</text>
+  </g>
+
+  <g transform="translate(0,100)">
+    <g clip-path="url(#card)">
+      <rect width="800" height="88" fill="#0f0c26"/>
+      <rect width="14" height="88" fill="#6d28d9"/>
+      <rect width="14" height="88" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;.2;0" dur="4s" begin="1s" repeatCount="indefinite"/></rect>
+    </g>
+    <rect class="box" x=".75" y=".75" width="798.5" height="86.5" rx="12" fill="none"/>
+    <text class="num" x="44" y="54">II</text>
+    <text class="h" x="76" y="34">ITER</text>
+    <text class="d" x="76" y="55">Accessible Android medication monitoring app built</text>
+    <text class="d" x="76" y="73">with Kotlin, Jetpack Compose, and ElevenLabs</text>
+    <rect x="537" y="31" width="239" height="26" rx="13" fill="#4c1d95"/>
+    <text class="p" x="656.5" y="48" fill="#ede9fe">4th Place Healthcare · HackGT 13</text>
+  </g>
+
+  <g transform="translate(0,200)">
+    <g clip-path="url(#card)">
+      <rect width="800" height="88" fill="#0f0c26"/>
+      <rect width="14" height="88" fill="#5b21b6"/>
+      <rect width="14" height="88" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;.2;0" dur="4s" begin="2s" repeatCount="indefinite"/></rect>
+    </g>
+    <rect class="box" x=".75" y=".75" width="798.5" height="86.5" rx="12" fill="none"/>
+    <text class="num" x="44" y="54">III</text>
+    <text class="h" x="76" y="34">Elderly Care RAG Chatbot</text>
+    <text class="d" x="76" y="55">Low-noise, voice-enabled RAG assistant designed</text>
+    <text class="d" x="76" y="73">with high-contrast accessibility in mind</text>
+    <rect x="623" y="31" width="153" height="26" rx="13" fill="#1e1b4b" stroke="#4c1d95"/>
+    <text class="p" x="699.5" y="48" fill="#c4b5fd">Accessibility · RAG</text>
+  </g>
+
+  <g transform="translate(0,300)">
+    <g clip-path="url(#card)">
+      <rect width="800" height="88" fill="#0f0c26"/>
+      <rect width="14" height="88" fill="#4c1d95"/>
+      <rect width="14" height="88" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;.2;0" dur="4s" begin="3s" repeatCount="indefinite"/></rect>
+    </g>
+    <rect class="box" x=".75" y=".75" width="798.5" height="86.5" rx="12" fill="none"/>
+    <text class="num" x="44" y="54">IV</text>
+    <text class="h" x="76" y="34">Roll A Entity / KillCode: Double Infil</text>
+    <text class="d" x="76" y="55">Multiplayer social deduction and Backrooms-inspired</text>
+    <text class="d" x="76" y="73">3D game experiences</text>
+    <rect x="623" y="31" width="153" height="26" rx="13" fill="#1e1b4b" stroke="#4c1d95"/>
+    <text class="p" x="699.5" y="48" fill="#c4b5fd">Games · Multiplayer</text>
+  </g>
+</svg>
