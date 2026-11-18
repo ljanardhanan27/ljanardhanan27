@@ -1,55 +1,79 @@
 <div align="center">
 
-# 📚 Welcome to My Cozy Library ☕
-*"So many books, so little time..."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=200&section=header&text=Welcome%20to%20My%20Cozy%20Library&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=%E2%80%9CSo%20many%20books%2C%20so%20little%20time%E2%80%A6%E2%80%9D&descAlignY=60" width="100%"/>
 
-Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who loves building accessible software. Things from AI-powered hackathon prototypes and Android apps to 3D Roblox games. When I'm not debugging or shipping projects, you can usually find me curled up with a good book, going on long walks, crafting miniature books, or playing video games.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=560&lines=CS+%40+Georgia+Tech;Accessible+software+%C3%97+AI+%C3%97+games;Reading+proofs%2C+writing+code" />
 
 </div>
 
----
+<!-- blank lines around math matter on GitHub -->
 
-### 📖 Shelf I: The Core Collection (Languages)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
+$$\lim_{n \to \infty} \frac{\text{time}}{\text{books}(n)} = 0$$
 
-### 📜 Shelf II: Frameworks & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
-
-### 🕯️ Shelf III: Tools & Workshop
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+<div align="center"><sub>(a formal proof of my reading list problem)</sub></div>
 
 ---
 
-### 📌 Featured Volumes (Projects I'm Proud Of)
-- 🕵️ **Stranger Tasks** — A hybrid deterministic + Gemini AI meeting commitment tracker and Chrome Extension *(ADP Track Winner @ Hack Like W@CC 2026)*.
-- 💊 **ITER** — An accessible Android medication monitoring app built with Kotlin, Jetpack Compose, and ElevenLabs *(4th Place Healthcare Track @ HackGT 13)*.
-- 💬 **Elderly Care RAG Chatbot** — A low-noise, voice-enabled RAG assistant designed with high-contrast accessibility in mind.
-- 🎲 **Roll an Entity / KillCode: Double Infil** — Multiplayer social deduction and Backrooms-inspired 3D game experiences.
+### 📖 Theorem 1: Who I Am
+
+Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who loves building accessible software, from AI-powered hackathon prototypes and Android apps to 3D Roblox games. When I'm not debugging or shipping, I'm curled up with a good book, going on long walks, crafting miniature books, or playing video games.
+
+> **Lemma:** $\text{debugging} + \text{good book} + \text{long walk} \Rightarrow \text{happy}$
 
 ---
 
-### 🌱 Currently Up To
-- 🔭 Building accessible web tools and experimenting with AI + deterministic workflows.
-- 🎓 Mentoring high school students on college apps and STEM coursework.
-- 📫 Say hello at **ljanardhanan27@gmail.com** — always down to chat about hackathons, UI/UX, game dev, or anything in between!
+### ∑ Axioms (Languages)
+
+![Python](https://img.shields.io/badge/PYTHON-1e1b4b?style=for-the-badge&logo=python&logoColor=a78bfa)
+![Java](https://img.shields.io/badge/JAVA-1e1b4b?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
+![Kotlin](https://img.shields.io/badge/KOTLIN-1e1b4b?style=for-the-badge&logo=kotlin&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1e1b4b?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-1e1b4b?style=for-the-badge&logo=typescript&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-1e1b4b?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
+![HTML5](https://img.shields.io/badge/HTML5-1e1b4b?style=for-the-badge&logo=html5&logoColor=a78bfa)
+
+### ∫ Theorems (Frameworks & Databases)
+
+![React](https://img.shields.io/badge/REACT-312e81?style=for-the-badge&logo=react&logoColor=c4b5fd)
+![Next.js](https://img.shields.io/badge/NEXT.JS-312e81?style=for-the-badge&logo=nextdotjs&logoColor=c4b5fd)
+![Node.js](https://img.shields.io/badge/NODE.JS-312e81?style=for-the-badge&logo=nodedotjs&logoColor=c4b5fd)
+![Flask](https://img.shields.io/badge/FLASK-312e81?style=for-the-badge&logo=flask&logoColor=c4b5fd)
+![Tailwind](https://img.shields.io/badge/TAILWIND-312e81?style=for-the-badge&logo=tailwindcss&logoColor=c4b5fd)
+![Supabase](https://img.shields.io/badge/SUPABASE-312e81?style=for-the-badge&logo=supabase&logoColor=c4b5fd)
+
+### ∇ Tools of the Trade
+
+![Git](https://img.shields.io/badge/GIT-4c1d95?style=for-the-badge&logo=git&logoColor=ddd6fe)
+![VS Code](https://img.shields.io/badge/VS_CODE-4c1d95?style=for-the-badge&logo=visualstudiocode&logoColor=ddd6fe)
+![Vercel](https://img.shields.io/badge/VERCEL-4c1d95?style=for-the-badge&logo=vercel&logoColor=ddd6fe)
+![Figma](https://img.shields.io/badge/FIGMA-4c1d95?style=for-the-badge&logo=figma&logoColor=ddd6fe)
+![Postman](https://img.shields.io/badge/POSTMAN-4c1d95?style=for-the-badge&logo=postman&logoColor=ddd6fe)
+
+---
+
+### 📌 Featured Proofs
+
+| # | Project | What it does | Achievement |
+|---|---|---|---|
+| I | 🕵️ **Stranger Tasks** | Hybrid deterministic + Gemini AI meeting commitment tracker and Chrome extension | 🏆 ADP Track Winner, Hack Like W@CC 2026 |
+| II | 💊 **ITER** | Accessible Android medication monitoring app (Kotlin, Jetpack Compose, ElevenLabs) | 🏅 4th Place Healthcare Track, HackGT 13 |
+| III | 💬 **Elderly Care RAG Chatbot** | Low-noise, voice-enabled RAG assistant with high-contrast accessibility | |
+| IV | 🎲 **Roll A Entity / KillCode: Double Infil** | Multiplayer social deduction and Backrooms-inspired 3D games | |
+
+---
+
+### 🌱 Work in Progress
+
+$$\frac{d}{dt}\,(\text{skills}) > 0$$
+
+- 🔭 Building accessible web tools and experimenting with AI + deterministic workflows
+- 🎓 Mentoring high school students on college apps and STEM coursework
+- 📫 Say hello at **ljanardhanan27@gmail.com**: always down to chat about hackathons, UI/UX, game dev, or anything in between!
+
+<div align="center">
+
+$$\blacksquare$$
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=100&section=footer" width="100%"/>
+
+</div>
