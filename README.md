@@ -88,11 +88,17 @@ built on clean design principles instead of vibe-coded noise,<br>
 with a UI made for the people who will actually use it.</i>
 </p>
 
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=420&height=30&lines=more+from+the+stacks" alt="More from the stacks"/></div>
+
 <div align="center">
 
-<sub>more from the stacks</sub>
-
-[KillCode: Double Infil](https://github.com/ljanardhanan27/killcode-double-infil) 路 [Lucky Lane](https://github.com/ljanardhanan27/Lucky-Lane) 路 [Moving Mayhem](https://github.com/ljanardhanan27/Moving-Mayhem) 路 [Dead Signal](https://github.com/ljanardhanan27/Dead-Signal) 路 [My Singing Monsters](https://github.com/ljanardhanan27/My-Singing-Monsters) 路 [Personal Portfolio](https://github.com/ljanardhanan27/Personal-Portfolio)
+[![KillCode](https://img.shields.io/badge/KILLCODE-1e1b4b?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/ljanardhanan27/killcode-double-infil)
+[![Lucky Lane](https://img.shields.io/badge/LUCKY_LANE-1e1b4b?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/ljanardhanan27/Lucky-Lane)
+[![Moving Mayhem](https://img.shields.io/badge/MOVING_MAYHEM-312e81?style=for-the-badge&logo=github&logoColor=c4b5fd)](https://github.com/ljanardhanan27/Moving-Mayhem)
+[![Dead Signal](https://img.shields.io/badge/DEAD_SIGNAL-312e81?style=for-the-badge&logo=github&logoColor=c4b5fd)](https://github.com/ljanardhanan27/Dead-Signal)
+[![My Singing Monsters](https://img.shields.io/badge/MY_SINGING_MONSTERS-4c1d95?style=for-the-badge&logo=github&logoColor=ddd6fe)](https://github.com/ljanardhanan27/My-Singing-Monsters)
+[![Personal Portfolio](https://img.shields.io/badge/PERSONAL_PORTFOLIO-4c1d95?style=for-the-badge&logo=github&logoColor=ddd6fe)](https://github.com/ljanardhanan27/Personal-Portfolio)
+[![RAG Chatbot](https://img.shields.io/badge/RAG_CHATBOT-4c1d95?style=for-the-badge&logo=github&logoColor=ddd6fe)](https://github.com/samik-py/RAG-chatbot)
 
 </div>
 
@@ -125,6 +131,18 @@ because everyone deserves someone telling them *"you can absolutely do this"* 馃
 [![Email](https://img.shields.io/badge/EMAIL-ljanardhanan27%40gmail.com-4c1d95?style=for-the-badge&logo=gmail&logoColor=ddd6fe)](mailto:ljanardhanan27@gmail.com)
 
 <sub>always down to chat about hackathons, UI/UX, game dev, or anything in between</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2" width="100%" alt=""/>
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=520&height=45&lines=The+Logbook" alt="The Logbook"/></div>
+
+<img src="https://raw.githubusercontent.com/ljanardhanan27/ljanardhanan27/output/snake.svg" width="100%" alt="My GitHub contribution graph in purple, with a snake eating the squares"/>
+
+<div align="center">
+
+<sub>every square is a day I showed up</sub>
 
 <br>
 
