@@ -1,78 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1810,45:7c2d12,100:c2410c&height=210&section=header&text=Welcome%20to%20My%20Cozy%20Library&fontSize=40&fontColor=fde8c8&fontAlignY=38&desc=%E2%80%9CSo%20many%20books%2C%20so%20little%20time%E2%80%A6%E2%80%9D&descColor=f5c98b&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a2e,50:312e81,100:6d28d9&height=210&section=header&text=Welcome%20to%20My%20Cozy%20Library&fontSize=40&fontColor=e0e7ff&fontAlignY=38&desc=%E2%80%9CSo%20many%20books%2C%20so%20little%20time%E2%80%A6%E2%80%9D&descColor=c4b5fd&descAlignY=60&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1400&color=C2410C&center=true&vCenter=true&width=600&lines=hi%2C+I'm+Lochana+%F0%9F%8D%82;CS+%40+Georgia+Tech%2C+math+at+heart;I+build+software+that+includes+everyone;tea+%2B+a+good+book+%2B+a+long+walk+%F0%9F%93%96" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=640&height=40&lines=CS+%40+Georgia+Tech;Building+software+that+works+for+everyone;Reading+proofs%2C+writing+code%2C+folding+tiny+books" />
 
-</div>
-
-$$\forall\ \text{people}\ \ \exists\ \text{a way for them to use this}$$
-
-<div align="center"><sub>my one rule when I build things 🧡</sub></div>
-
----
-
-### 🍂 About me
-
-I'm a CS student at **Georgia Tech** who loves math, books, and building things that actually help people. Most of what I make is about accessibility: apps and tools that work for the people who usually get left out of the default design.
-
-Outside of code you'll find me on a long walk, making **miniature books** by hand, or losing a whole weekend to a video game.
-
-**Honest confession:** I don't love debugging. I do it anyway, with tea.
-
-$$\text{bug} \;\to\; \text{frustration} \;\to\; \text{tea} \;\to\; \text{walk} \;\to\; \text{oh, it was a typo} \;\to\; \text{fixed}$$
-
----
-
-### 📚 What's on my shelves
-
-**Languages:** Python · Java · Kotlin · JavaScript · TypeScript · C++ · HTML
-
-**Frameworks:** React · Next.js · Node · Flask · Tailwind · Supabase
-
-**Tools:** Git · VS Code · Vercel · Figma · Postman
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-7c2d12?style=flat-square&logo=python&logoColor=fde8c8)
-![Kotlin](https://img.shields.io/badge/Kotlin-9a3412?style=flat-square&logo=kotlin&logoColor=fde8c8)
-![TypeScript](https://img.shields.io/badge/TypeScript-b45309?style=flat-square&logo=typescript&logoColor=fde8c8)
-![React](https://img.shields.io/badge/React-881337?style=flat-square&logo=react&logoColor=fde8c8)
-![Figma](https://img.shields.io/badge/Figma-6b2d3c?style=flat-square&logo=figma&logoColor=fde8c8)
+<img src="./snow.svg" width="100%" height="70"/>
 
 </div>
 
-<sub>(the ones I reach for most. The full list is above, I just didn't want a wall of badges.)</sub>
+$$\lim_{n \to \infty} \frac{\text{time}}{\text{books}(n)} = 0$$
+
+<div align="center"><sub>❄️ a formal proof of my reading list problem ❄️</sub></div>
 
 ---
 
-### 📌 Things I'm proud of
+### 📖 Theorem 1: Who I Am
 
-🕵️ **Stranger Tasks**: a meeting commitment tracker + Chrome extension that mixes deterministic logic with Gemini. *ADP Track Winner, Hack Like W@CC 2026*
+Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who loves building accessible software, from AI-powered hackathon prototypes and Android apps to 3D Roblox games. When I'm not shipping projects, I'm curled up with a good book, going on long walks, crafting miniature books, or playing video games.
 
-💊 **ITER**: an accessible Android medication app (Kotlin, Jetpack Compose, ElevenLabs), built so taking meds is less stressful. *4th Place Healthcare Track, HackGT 13*
-
-💬 **Elderly Care RAG Chatbot**: a calm, voice-enabled assistant with high-contrast design, made for people who find most tech overwhelming.
-
-🎲 **Roll A Entity / KillCode: Double Infil**: Backrooms-inspired 3D worlds and social deduction games, because I need some chaos in my life too.
-
-> **Why I build what I build:** *(her sentence here, in her own words. Even one line about why accessibility matters to her will make the whole page feel human.)*
-
----
-
-### 🌰 Right now
-
-- 🔭 building accessible web tools and mixing AI with deterministic logic
-- 🎓 mentoring high schoolers on college apps and STEM, because someone should say "you can absolutely do this" 🧡
-- 📖 currently reading: *(title)*
-- 📫 say hi at **ljanardhanan27@gmail.com**. I love talking hackathons, UI/UX, game dev, or books
+> **Lemma:** $\text{shipping} + \text{good book} + \text{long walk} \Rightarrow \text{happy}$
+> <sub>(debugging and I are still getting to know each other 😅)</sub>
 
 <div align="center">
 
-$$e^{i\pi} + 1 = 0$$
+<table>
+  <tr><td colspan="2" align="center"><b>📇 LIBRARY CARD</b></td></tr>
+  <tr><td><b>Borrower</b></td><td>Lochana</td></tr>
+  <tr><td><b>Currently checked out</b></td><td><i>(book title)</i></td></tr>
+  <tr><td><b>Favorite shelf</b></td><td><i>(genre or author)</i></td></tr>
+  <tr><td><b>Overdue</b></td><td>my entire reading list 📚</td></tr>
+  <tr><td><b>Fuel</b></td><td><i>(her tea or drink of choice)</i> ☕</td></tr>
+</table>
 
-<sub>five of my favorite constants in one sentence 🍁</sub>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2410c,55:7c2d12,100:2b1810&height=100&section=footer" width="100%"/>
+---
+
+### 📖 Shelf I: Axioms (Languages)
+
+![Python](https://img.shields.io/badge/PYTHON-1e1b4b?style=for-the-badge&logo=python&logoColor=a78bfa)
+![Java](https://img.shields.io/badge/JAVA-1e1b4b?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
+![Kotlin](https://img.shields.io/badge/KOTLIN-1e1b4b?style=for-the-badge&logo=kotlin&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1e1b4b?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-1e1b4b?style=for-the-badge&logo=typescript&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-1e1b4b?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
+![HTML5](https://img.shields.io/badge/HTML5-1e1b4b?style=for-the-badge&logo=html5&logoColor=a78bfa)
+
+### 📜 Shelf II: Theorems (Frameworks & Databases)
+
+![React](https://img.shields.io/badge/REACT-312e81?style=for-the-badge&logo=react&logoColor=c4b5fd)
+![Next.js](https://img.shields.io/badge/NEXT.JS-312e81?style=for-the-badge&logo=nextdotjs&logoColor=c4b5fd)
+![Node.js](https://img.shields.io/badge/NODE.JS-312e81?style=for-the-badge&logo=nodedotjs&logoColor=c4b5fd)
+![Flask](https://img.shields.io/badge/FLASK-312e81?style=for-the-badge&logo=flask&logoColor=c4b5fd)
+![Tailwind](https://img.shields.io/badge/TAILWIND-312e81?style=for-the-badge&logo=tailwindcss&logoColor=c4b5fd)
+![Supabase](https://img.shields.io/badge/SUPABASE-312e81?style=for-the-badge&logo=supabase&logoColor=c4b5fd)
+
+### 🕯️ Shelf III: Tools of the Trade
+
+![Git](https://img.shields.io/badge/GIT-4c1d95?style=for-the-badge&logo=git&logoColor=ddd6fe)
+![VS Code](https://img.shields.io/badge/VS_CODE-4c1d95?style=for-the-badge&logo=visualstudiocode&logoColor=ddd6fe)
+![Vercel](https://img.shields.io/badge/VERCEL-4c1d95?style=for-the-badge&logo=vercel&logoColor=ddd6fe)
+![Figma](https://img.shields.io/badge/FIGMA-4c1d95?style=for-the-badge&logo=figma&logoColor=ddd6fe)
+![Postman](https://img.shields.io/badge/POSTMAN-4c1d95?style=for-the-badge&logo=postman&logoColor=ddd6fe)
+
+---
+
+### 📌 Featured Volumes
+
+| | Project | What it does | Recognition |
+|---|---|---|---|
+| 🕵️ | **[Stranger Tasks](https://github.com/YOUR_USERNAME/REPO)** | Meeting commitment tracker and Chrome extension that pairs deterministic logic with Gemini AI | ![ADP Track Winner](https://img.shields.io/badge/ADP_Track_Winner-Hack_Like_W%40CC_2026-4c1d95?style=flat-square) |
+| 💊 | **[ITER](https://github.com/YOUR_USERNAME/REPO)** | Accessible Android medication monitoring app (Kotlin, Jetpack Compose, ElevenLabs) | ![4th Place Healthcare](https://img.shields.io/badge/4th_Place_Healthcare-HackGT_13-312e81?style=flat-square) |
+| 💬 | **[Elderly Care RAG Chatbot](https://github.com/YOUR_USERNAME/REPO)** | Low-noise, voice-enabled RAG assistant designed with high-contrast accessibility | |
+| 🎲 | **[Roll A Entity](https://github.com/YOUR_USERNAME/REPO) / KillCode: Double Infil** | Multiplayer social deduction and Backrooms-inspired 3D game experiences | |
+
+> **Why I build what I build:** *(one or two sentences in her own words about why accessibility matters to her. This is the line that makes the page hers.)*
+
+---
+
+### 📊 By the numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=cbd5e1&icon_color=a78bfa" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=cbd5e1" />
+
+</div>
+
+---
+
+### 🌱 Currently Up To
+
+$$\frac{d}{dt}\,(\text{skills}) > 0$$
+
+- 🔭 Building accessible web tools and experimenting with AI + deterministic workflows
+- 🎓 Mentoring high school students on college apps and STEM coursework, because everyone deserves someone telling them *"you can absolutely do this"* 💜
+- 📖 Reading: *(title)*
+- 📫 Say hello at **ljanardhanan27@gmail.com**. Always down to chat about hackathons, UI/UX, game dev, or anything in between!
+
+<div align="center">
+
+$$\blacksquare$$
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:312e81,100:0f0a2e&height=100&section=footer" width="100%"/>
 
 </div>
