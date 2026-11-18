@@ -69,10 +69,10 @@ Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who love
 
 | | Project | What it does | Recognition |
 |---|---|---|---|
-| 🕵️ | **[Stranger Tasks](https://github.com/YOUR_USERNAME/REPO)** | Meeting commitment tracker and Chrome extension that pairs deterministic logic with Gemini AI | ![ADP Track Winner](https://img.shields.io/badge/ADP_Track_Winner-Hack_Like_W%40CC_2026-4c1d95?style=flat-square) |
-| 💊 | **[ITER](https://github.com/YOUR_USERNAME/REPO)** | Accessible Android medication monitoring app (Kotlin, Jetpack Compose, ElevenLabs) | ![4th Place Healthcare](https://img.shields.io/badge/4th_Place_Healthcare-HackGT_13-312e81?style=flat-square) |
-| 💬 | **[Elderly Care RAG Chatbot](https://github.com/YOUR_USERNAME/REPO)** | Low-noise, voice-enabled RAG assistant designed with high-contrast accessibility | |
-| 🎲 | **[Roll A Entity](https://github.com/YOUR_USERNAME/REPO) / KillCode: Double Infil** | Multiplayer social deduction and Backrooms-inspired 3D game experiences | |
+| 🕵️ | **[Stranger Tasks](https://github.com/ljanardhanan27/REPO)** | Meeting commitment tracker and Chrome extension that pairs deterministic logic with Gemini AI | ![ADP Track Winner](https://img.shields.io/badge/ADP_Track_Winner-Hack_Like_W%40CC_2026-4c1d95?style=flat-square) |
+| 💊 | **[ITER](https://github.com/ljanardhanan27/REPO)** | Accessible Android medication monitoring app (Kotlin, Jetpack Compose, ElevenLabs) | ![4th Place Healthcare](https://img.shields.io/badge/4th_Place_Healthcare-HackGT_13-312e81?style=flat-square) |
+| 💬 | **[Elderly Care RAG Chatbot](https://github.com/ljanardhanan27/REPO)** | Low-noise, voice-enabled RAG assistant designed with high-contrast accessibility | |
+| 🎲 | **[Roll A Entity](https://github.com/ljanardhanan27/REPO) / KillCode: Double Infil** | Multiplayer social deduction and Backrooms-inspired 3D game experiences | |
 
 > **Why I build what I build:** *(one or two sentences in her own words about why accessibility matters to her. This is the line that makes the page hers.)*
 
@@ -82,8 +82,8 @@ Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who love
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=cbd5e1&icon_color=a78bfa" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=cbd5e1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ljanardhanan27&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=cbd5e1&icon_color=a78bfa" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljanardhanan27&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=cbd5e1" />
 
 </div>
 
