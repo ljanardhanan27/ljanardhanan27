@@ -3,7 +3,7 @@
 # 📚 Welcome to My Cozy Library ☕
 *"So many books, so little time..."*
 
-Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who loves building thoughtful, accessible software—from AI-powered hackathon prototypes and Android apps to 3D Roblox games. When I'm not debugging or shipping projects, you can usually find me crafting miniature books, practicing parai percussion, or learning German.
+Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who loves building accessible software. Things from AI-powered hackathon prototypes and Android apps to 3D Roblox games. When I'm not debugging or shipping projects, you can usually find me curled up with a good book, going on long walks, crafting miniature books, or playing video games.
 
 </div>
 
@@ -52,4 +52,4 @@ Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who love
 ### 🌱 Currently Up To
 - 🔭 Building accessible web tools and experimenting with AI + deterministic workflows.
 - 🎓 Mentoring high school students on college apps and STEM coursework.
-- 📫 Say hello at **ljanardhanan27@gmail.com** — always down to chat about hackathons, UI/UX, or game dev!
+- 📫 Say hello at **ljanardhanan27@gmail.com** — always down to chat about hackathons, UI/UX, game dev, or anything in between!
