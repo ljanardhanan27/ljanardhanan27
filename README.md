@@ -12,9 +12,9 @@ $$\lim_{n \to \infty} \frac{\text{time}}{\text{books}(n)} = 0$$
 
 <div align="center"><sub>❄️ a formal proof of my reading list problem ❄️</sub></div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2" width="100%"/>
 
-### 📖 Theorem 1: Who I Am
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=520&height=45&lines=Theorem+1%3A+Who+I+Am" /></div>
 
 Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who loves building accessible software, from AI-powered hackathon prototypes and Android apps to 3D Roblox games. When I'm not shipping projects, I'm curled up with a good book, going on long walks, crafting miniature books, or playing video games.
 
@@ -34,9 +34,11 @@ Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who love
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2" width="100%"/>
 
-### 📖 Shelf I: Axioms (Languages)
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=520&height=35&lines=Shelf+I%3A+Axioms+%28Languages%29" /></div>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/PYTHON-1e1b4b?style=for-the-badge&logo=python&logoColor=a78bfa)
 ![Java](https://img.shields.io/badge/JAVA-1e1b4b?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
@@ -46,7 +48,11 @@ Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who love
 ![C++](https://img.shields.io/badge/C++-1e1b4b?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
 ![HTML5](https://img.shields.io/badge/HTML5-1e1b4b?style=for-the-badge&logo=html5&logoColor=a78bfa)
 
-### 📜 Shelf II: Theorems (Frameworks & Databases)
+</div>
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=520&height=35&lines=Shelf+II%3A+Theorems+%28Frameworks+%26+Databases%29" /></div>
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/REACT-312e81?style=for-the-badge&logo=react&logoColor=c4b5fd)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-312e81?style=for-the-badge&logo=nextdotjs&logoColor=c4b5fd)
@@ -55,7 +61,11 @@ Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who love
 ![Tailwind](https://img.shields.io/badge/TAILWIND-312e81?style=for-the-badge&logo=tailwindcss&logoColor=c4b5fd)
 ![Supabase](https://img.shields.io/badge/SUPABASE-312e81?style=for-the-badge&logo=supabase&logoColor=c4b5fd)
 
-### 🕯️ Shelf III: Tools of the Trade
+</div>
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=520&height=35&lines=Shelf+III%3A+Tools+of+the+Trade" /></div>
+
+<div align="center">
 
 ![Git](https://img.shields.io/badge/GIT-4c1d95?style=for-the-badge&logo=git&logoColor=ddd6fe)
 ![VS Code](https://img.shields.io/badge/VS_CODE-4c1d95?style=for-the-badge&logo=visualstudiocode&logoColor=ddd6fe)
@@ -63,22 +73,32 @@ Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who love
 ![Figma](https://img.shields.io/badge/FIGMA-4c1d95?style=for-the-badge&logo=figma&logoColor=ddd6fe)
 ![Postman](https://img.shields.io/badge/POSTMAN-4c1d95?style=for-the-badge&logo=postman&logoColor=ddd6fe)
 
----
+</div>
 
-### 📌 Featured Volumes
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2" width="100%"/>
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=520&height=45&lines=Featured+Volumes" /></div>
 
 | | Project | What it does | Recognition |
 |---|---|---|---|
-| 🕵️ | **[Stranger Tasks](https://github.com/ljanardhanan27/REPO)** | Meeting commitment tracker and Chrome extension that pairs deterministic logic with Gemini AI | ![ADP Track Winner](https://img.shields.io/badge/ADP_Track_Winner-Hack_Like_W%40CC_2026-4c1d95?style=flat-square) |
-| 💊 | **[ITER](https://github.com/ljanardhanan27/REPO)** | Accessible Android medication monitoring app (Kotlin, Jetpack Compose, ElevenLabs) | ![4th Place Healthcare](https://img.shields.io/badge/4th_Place_Healthcare-HackGT_13-312e81?style=flat-square) |
-| 💬 | **[Elderly Care RAG Chatbot](https://github.com/ljanardhanan27/REPO)** | Low-noise, voice-enabled RAG assistant designed with high-contrast accessibility | |
-| 🎲 | **[Roll A Entity](https://github.com/ljanardhanan27/REPO) / KillCode: Double Infil** | Multiplayer social deduction and Backrooms-inspired 3D game experiences | |
+| 🕵️ | **Stranger Tasks** | Meeting commitment tracker and Chrome extension that pairs deterministic logic with Gemini AI | ![ADP Track Winner](https://img.shields.io/badge/ADP_Track_Winner-Hack_Like_W%40CC_2026-4c1d95?style=flat-square) |
+| 💊 | **ITER** | Accessible Android medication monitoring app (Kotlin, Jetpack Compose, ElevenLabs) | ![4th Place Healthcare](https://img.shields.io/badge/4th_Place_Healthcare-HackGT_13-312e81?style=flat-square) |
+| 💬 | **Elderly Care RAG Chatbot** | Low-noise, voice-enabled RAG assistant designed with high-contrast accessibility | |
+| 🎲 | **Roll A Entity / [KillCode: Double Infil](https://github.com/ljanardhanan27/killcode-double-infil)** | Multiplayer social deduction and Backrooms-inspired 3D game experiences | |
 
 > **Why I build what I build:** *(one or two sentences in her own words about why accessibility matters to her. This is the line that makes the page hers.)*
 
----
+<div align="center">
 
-### 📊 By the numbers
+<sub>more from the stacks</sub>
+
+[Lucky Lane](https://github.com/ljanardhanan27/Lucky-Lane) · [Moving Mayhem](https://github.com/ljanardhanan27/Moving-Mayhem) · [Dead Signal](https://github.com/ljanardhanan27/Dead-Signal) · [My Singing Monsters](https://github.com/ljanardhanan27/My-Singing-Monsters) · [Personal Portfolio](https://github.com/ljanardhanan27/Personal-Portfolio)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2" width="100%"/>
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=520&height=45&lines=By+the+Numbers" /></div>
 
 <div align="center">
 
@@ -87,9 +107,9 @@ Hi, I'm **Lochana**! I'm a Computer Science student at **Georgia Tech** who love
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2" width="100%"/>
 
-### 🌱 Currently Up To
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=520&height=45&lines=Currently+Up+To" /></div>
 
 $$\frac{d}{dt}\,(\text{skills}) > 0$$
 
