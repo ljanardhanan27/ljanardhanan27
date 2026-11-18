@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="90" viewBox="0 0 800 90">
+  <g fill="#e0e7ff">
+    <circle cx="30" r="2.5" opacity=".9"><animate attributeName="cy" from="-5" to="95" dur="6s" begin="-1s" repeatCount="indefinite"/></circle>
+    <circle cx="95" r="2" opacity=".6"><animate attributeName="cy" from="-5" to="95" dur="8s" begin="-5s" repeatCount="indefinite"/></circle>
+    <circle cx="150" r="3" opacity=".9"><animate attributeName="cy" from="-5" to="95" dur="5s" begin="-3s" repeatCount="indefinite"/></circle>
+    <circle cx="210" r="2" opacity=".7"><animate attributeName="cy" from="-5" to="95" dur="7s" begin="-2s" repeatCount="indefinite"/></circle>
+    <circle cx="275" r="3.5" opacity=".8"><animate attributeName="cy" from="-5" to="95" dur="6.5s" begin="-4s" repeatCount="indefinite"/></circle>
+    <circle cx="340" r="2" opacity=".6"><animate attributeName="cy" from="-5" to="95" dur="8s" begin="-1s" repeatCount="indefinite"/></circle>
+    <circle cx="400" r="3" opacity=".9"><animate attributeName="cy" from="-5" to="95" dur="5.5s" begin="-3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="460" r="2.5" opacity=".7"><animate attributeName="cy" from="-5" to="95" dur="7s" begin="-6s" repeatCount="indefinite"/></circle>
+    <circle cx="525" r="2" opacity=".6"><animate attributeName="cy" from="-5" to="95" dur="6s" begin="-2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="590" r="3.5" opacity=".9"><animate attributeName="cy" from="-5" to="95" dur="8s" begin="-4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="650" r="2.5" opacity=".7"><animate attributeName="cy" from="-5" to="95" dur="5s" begin="-1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="705" r="2" opacity=".8"><animate attributeName="cy" from="-5" to="95" dur="7.5s" begin="-3s" repeatCount="indefinite"/></circle>
+    <circle cx="760" r="3" opacity=".9"><animate attributeName="cy" from="-5" to="95" dur="6s" begin="-5s" repeatCount="indefinite"/></circle>
+    <circle cx="120" r="1.8" opacity=".5"><animate attributeName="cy" from="-5" to="95" dur="9s" begin="-7s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
